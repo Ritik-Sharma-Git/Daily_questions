@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0118-pascals-triangle) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
