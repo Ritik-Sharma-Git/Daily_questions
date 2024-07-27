@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0118-pascals-triangle) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## String
@@ -38,8 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
