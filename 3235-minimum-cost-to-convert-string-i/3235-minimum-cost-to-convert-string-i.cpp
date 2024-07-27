@@ -23,29 +23,25 @@ public:
         long long ans = 0;
         vector<vector<long long>> adjmatrix(26, vector<long long>(26, LLONG_MAX));
         
-        // Initialize the diagonal to zero
         for (int i = 0; i < 26; ++i) {
             adjmatrix[i][i] = 0;
         }
 
-        // Fill in the adjacency matrix with given costs
         for (int i = 0; i < original.size(); ++i) {
             int s = original[i] - 'a';
             int t = changed[i] - 'a';
             adjmatrix[s][t] = min(adjmatrix[s][t], (long long)cost[i]);
         }
 
-        // Perform Floyd-Warshall algorithm
         floydWarshall(adjmatrix);
 
-        // Calculate the minimum cost to convert source to target
         for (int i = 0; i < source.size(); ++i) {
             if (source[i] == target[i]) {
                 continue;
             }
             long long conversionCost = adjmatrix[source[i] - 'a'][target[i] - 'a'];
             if (conversionCost == LLONG_MAX) {
-                return -1; // Conversion not possible
+                return -1;
             }
             ans += conversionCost;
         }
