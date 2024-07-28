@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0075-sort-colors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
