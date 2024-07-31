@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Graph
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1511-count-number-of-teams](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1511-count-number-of-teams) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
