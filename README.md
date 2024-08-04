@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0075-sort-colors) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0075-sort-colors) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
