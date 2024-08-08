@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0921-spiral-matrix-iii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0073-set-matrix-zeroes) |
+| [0921-spiral-matrix-iii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0921-spiral-matrix-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
