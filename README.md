@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0870-magic-squares-in-grid](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1511-count-number-of-teams) |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0073-set-matrix-zeroes) |
+| [0870-magic-squares-in-grid](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0073-set-matrix-zeroes) |
+| [0870-magic-squares-in-grid](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0921-spiral-matrix-iii) |
 ## Two Pointers
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0921-spiral-matrix-iii) |
+## Math
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
