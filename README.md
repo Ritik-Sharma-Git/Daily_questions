@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0075-sort-colors) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
