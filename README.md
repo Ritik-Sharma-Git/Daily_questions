@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0870-magic-squares-in-grid](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1196-filling-bookcase-shelves) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0040-combination-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
