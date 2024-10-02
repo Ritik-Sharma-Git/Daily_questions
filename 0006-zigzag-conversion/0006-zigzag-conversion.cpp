@@ -3,7 +3,7 @@ public:
     string convert(string s, int numRows) {
         if(numRows==1)return s;
         // string ans;
-        vector<string> rows(min(numRows, int(s.size())));
+        vector<string> rows(numRows);
         int curRow = 0;
         bool goingDown = false;
 
