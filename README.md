@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0006-zigzag-conversion) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Graph
