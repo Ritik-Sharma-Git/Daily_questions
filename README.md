@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0006-zigzag-conversion) |
+| [0567-permutation-in-string](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0567-permutation-in-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Graph
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0073-set-matrix-zeroes) |
+| [0567-permutation-in-string](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0075-sort-colors) |
+| [0567-permutation-in-string](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
