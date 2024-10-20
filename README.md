@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0006-zigzag-conversion) |
 | [0567-permutation-in-string](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0567-permutation-in-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Graph
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0890-lemonade-change) |
+## Recursion
+|  |
+| ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1197-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
