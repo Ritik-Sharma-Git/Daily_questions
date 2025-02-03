@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## String
 |  |
