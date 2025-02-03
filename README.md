@@ -169,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Database
+|  |
+| ------- |
+| [0596-classes-more-than-5-students](https://github.com/Ritik-Sharma-Git/Daily_questions/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
